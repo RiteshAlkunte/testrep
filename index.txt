@@ -6,7 +6,7 @@
     <title>Fetch HTML from S3</title>
 </head>
 <body>
-    <h1>This is Main Page</h1>
+    <h1>This is dev page</h1>
     <div id="content"></div>
 
     <script>
